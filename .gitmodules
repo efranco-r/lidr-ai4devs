@@ -1,0 +1,6 @@
+[submodule "AI4Devs-intro-202603"]
+	path = AI4Devs-intro-202603
+	url = git@github.com-efranco-r:efranco-r/AI4Devs-intro-202603.git
+[submodule "AI4Devs-stopwatch-2603"]
+	path = AI4Devs-stopwatch-2603
+	url = git@github.com-efranco-r:efranco-r/AI4Devs-stopwatch-2603.git
